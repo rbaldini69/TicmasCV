@@ -9,6 +9,13 @@ body{
     background-color: aliceblue;
     min-height: 100vh;
 }
+
+.hide{
+    display: none;
+}
+.show{
+    display:block;
+}
 h4{
     text-align: center;
 }
@@ -56,6 +63,7 @@ align-items: center;
     position: absolute;
     bottom: 0;
 }
+
 footer p{
     margin: 0;
 }
